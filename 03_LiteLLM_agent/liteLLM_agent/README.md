@@ -56,9 +56,9 @@ The system contains a root `coding_manager` agent and three specialized agents:
                            ▼
                          LiteLLM
 
+```
 
 ---
-
 
 ## Additional Resources
 
